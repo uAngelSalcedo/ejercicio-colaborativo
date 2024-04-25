@@ -1,3 +1,14 @@
 body{
     background: #BDBDBD;
 }
+/* Estilos del tag-line Cristobal*/
+.text-img-tagline{
+    margin-top: 2rem;
+    font-size: 3vw;
+    text-decoration: none;
+}
+
+.img-tagline{
+    border-radius: none;
+    
+}
